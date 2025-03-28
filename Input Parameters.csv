@@ -1,0 +1,10 @@
+Worksheet, Row Index, Column Index, Output Variable Name
+Reporte Operacional MV,43,6,Oxidos.Heap.Beneficio.Dia.Oficial
+Reporte Operacional MV,44,6,Oxidos.Heap.Tiempo Operacional.Dia.Oficial
+Reporte Operacional MV,45,6,Oxidos.Heap.Disponibilidad.Dia.Oficial
+Reporte Operacional MV,46,6,Oxidos.Heap.Utilizacion.Dia.Oficial
+Reporte Operacional MV,47,6,Oxidos.Heap.Ley Cut.Dia.Oficial
+Reporte Operacional MV,48,6,Oxidos.Heap.Ley Cus.Dia.Oficial
+Reporte Operacional MV,49,6,Oxidos.Heap.Ley CaCO3.Dia.Oficial
+Reporte Operacional MV,50,6,Oxidos.Heap.Recuperacion Calculada.Dia.Oficial
+Reporte Operacional MV,51,6,Oxidos.Heap.Recuperacion Instantanea.Dia.Oficial
